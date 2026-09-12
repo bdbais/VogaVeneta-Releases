@@ -23,6 +23,23 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Comandi e figura del vogatore — 0.1.0-beta02
+
+- si voga da tutta la metà destra bassa dello schermo, non solo dentro l'ovale;
+- il colpo si chiude da solo se stacchi il dito a metà ritorno;
+- lo stalir ora governa davvero: senza, la prua scappa a sinistra di due gradi a colpo;
+- il rematore ha spalle e collo, e la maglia a righe si vede;
+- inquadratura da dietro la spalla riquadrata sul gesto;
+- la lezione sta su due colonne quando il telefono è in orizzontale;
+- niente banda bianca sotto il ritaglio dello schermo.
+
+### Verifica
+
+- SHA-256 APK: `FB2A198CC6E04F01B383B913DD7D86FF83932447A236A34E69454068CE69D1E2`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.57 MB
+
+
 ## Prima beta giocabile — 0.1.0-beta01
 
 - sandolo navigabile da San Giuliano a Rialto, con premer, stalir e sciàr;

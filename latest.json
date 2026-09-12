@@ -1,9 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0-beta01",
+  "versionCode": 2,
+  "versionName": "0.1.0-beta02",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "18761B865F0144D1F4B655837170D6BCCCC4E8226767B8DDB82D393B77D6DDCA",
-  "sizeBytes": 3741480,
+  "sha256": "FB2A198CC6E04F01B383B913DD7D86FF83932447A236A34E69454068CE69D1E2",
+  "sizeBytes": 3741724,
   "date": "2026-09-13",
-  "notes": "sandolo navigabile da San Giuliano a Rialto, con premer, stalir e sciàr. scuola di voga in nove lezioni, con i disegni del gesto. varo della barca: cavalletti, messa in acqua, imbarco, «molla la cima». laguna con batimetria vera: canale segnato dalle briccole, secche e barene. moto ondoso calcolato: l'onda che vedi è quella che ti fa rollare. traffico con rotte di collisione, marea, vento, pioggia e càigo. quattro scafi da 1 a 6 remi, equipaggio IA, sartoria del vogatore. esame da gondoliere e prime corse turistiche. voga in due in rete con la voce, su Cloudflare."
+  "notes": "si voga da tutta la metà destra bassa dello schermo, non solo dentro l'ovale. il colpo si chiude da solo se stacchi il dito a metà ritorno. lo stalir ora governa davvero: senza, la prua scappa a sinistra di due gradi a colpo. il rematore ha spalle e collo, e la maglia a righe si vede. inquadratura da dietro la spalla riquadrata sul gesto. la lezione sta su due colonne quando il telefono è in orizzontale. niente banda bianca sotto il ritaglio dello schermo."
 }
