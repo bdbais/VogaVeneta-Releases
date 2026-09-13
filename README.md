@@ -23,6 +23,20 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Barre orizzontali e comandi da mouse e tastiera — 0.1.0-beta13
+
+- fiato ed equilibrio: barre orizzontali sul fianco sinistro, non piu' verticali sotto la manopola;
+- da computer la modalita' arcade si comanda con W/Spazio, S, A/D e i pomelli si muovono da soli;
+- in pro il giro della forcola si fa col mouse sull'ovale disegnato, anche al contrario per sciar;
+- V passa da terza a prima persona.
+
+### Verifica
+
+- SHA-256 APK: `7220B48B7337955B1D1F323AC2123A7B3EE81D112FC17E17C8F20032D1DED827`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.61 MB
+
+
 ## Onda che non urla piu, obiettivo che non copre, e si parte da dove vuoi — 0.1.0-beta12
 
 - l'allarme ONDA scattava per la scia della tua stessa barca: adesso guarda avanti, avvisa una volta per barca che passa e solo se e' roba seria;

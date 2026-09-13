@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "0.1.0-beta12",
+  "versionCode": 13,
+  "versionName": "0.1.0-beta13",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "1A29631F71EA02CD0EE49B7E8C52B3D24AF9E4A3A015BC18E5BD640779D805F5",
-  "sizeBytes": 3786274,
+  "sha256": "7220B48B7337955B1D1F323AC2123A7B3EE81D112FC17E17C8F20032D1DED827",
+  "sizeBytes": 3786914,
   "date": "2026-09-13",
-  "notes": "l'allarme ONDA scattava per la scia della tua stessa barca: adesso guarda avanti, avvisa una volta per barca che passa e solo se e' roba seria. il riquadro OBIETTIVO sta a sinistra sotto la tratta e dopo sette secondi si stringe su una riga. voga libera: si sceglie da dove partire, anche direttamente in Cannaregio o in Canal Grande. ogni tratta ha il suo cronometro e il suo record, con il passo confrontato in tempo reale. durante il varo lo schermo e' pulito: niente comandi sopra il filmato."
+  "notes": "fiato ed equilibrio: barre orizzontali sul fianco sinistro, non piu' verticali sotto la manopola. da computer la modalita' arcade si comanda con W/Spazio, S, A/D e i pomelli si muovono da soli. in pro il giro della forcola si fa col mouse sull'ovale disegnato, anche al contrario per sciar. V passa da terza a prima persona."
 }
