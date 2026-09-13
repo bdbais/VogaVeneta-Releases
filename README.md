@@ -23,6 +23,24 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Remi in barca, vento vero, le grida e lo sterzo che si capisce — 0.1.0-beta08
+
+- non si capiva come girare: l'ovale disegnato adesso è la rotta dritta — allarghi e accosti a destra, stringi e vai a sinistra — con la scritta sotto il comando che lo dice sempre;
+- le onde erano alte due centimetri e invisibili: il riparo veniva contato due volte. Ora l'acqua si muove e si vede il moto ondoso arrivare;
+- REMI IN BARCA: alzi il remo, ti siedi sul pagliolo e lasci passare l'onda. In piedi si cade, seduti no — ed è così che si fa davvero;
+- il vento adesso frena a remare contro, fa orzare di traverso e da fermi ti porta via, insieme alla corrente di marea che scorre lungo il canale;
+- le grida ai barcaroli: un tocco chiama Óoe, tenendo premuto scegli fra premi, stali, sia e longo. Chi ti sente rallenta;
+- aggiornamento senza la finestra di sistema, dalla seconda volta in poi;
+- se Android chiude l'app in secondo piano, al rientro si riprende dal punto in cui eri;
+- sezione per offrire un caffè, nel menu e sul sito.
+
+### Verifica
+
+- SHA-256 APK: `D023CBBD90EBEE87CA1EB224114B59DCB481FE2CD207D6FFE2670F1EA87840A6`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.59 MB
+
+
 ## Aggiornamento dentro l'app — 0.1.0-beta06
 
 - all'avvio l'app controlla il manifesto pubblico e avvisa se c'è una beta nuova, con le novità;
