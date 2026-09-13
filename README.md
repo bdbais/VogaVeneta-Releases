@@ -23,6 +23,20 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Aggiornamento dentro l'app — 0.1.0-beta06
+
+- all'avvio l'app controlla il manifesto pubblico e avvisa se c'è una beta nuova, con le novità;
+- l'APK si scarica e si installa senza passare dal browser, con la barra di avanzamento;
+- prima di installare si controlla che il pacchetto sia il nostro, non più vecchio, e con la stessa firma;
+- se Android non ha ancora dato il permesso di installare da questa app, lo chiede e si riprova.
+
+### Verifica
+
+- SHA-256 APK: `4F9ED0F8902A338FEB3F9FE59B4ECB308F93E1935E8B8D97614259C4501875B4`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.58 MB
+
+
 ## Audio che tace fuori dall'app, radio di bordo, l'ormeggiatore — 0.1.0-beta05
 
 - uscendo dall'app il suono si spegne e la simulazione si ferma; al rientro riprendono da dove erano;

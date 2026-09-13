@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.0-beta05",
+  "versionCode": 6,
+  "versionName": "0.1.0-beta06",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "00ABF75823F88F921AB4E3ECB4B6C94DF67A15014A9FCE4A7EC1576842D6F3F0",
-  "sizeBytes": 3754579,
+  "sha256": "4F9ED0F8902A338FEB3F9FE59B4ECB308F93E1935E8B8D97614259C4501875B4",
+  "sizeBytes": 3758549,
   "date": "2026-09-13",
-  "notes": "uscendo dall'app il suono si spegne e la simulazione si ferma; al rientro riprendono da dove erano. il menu principale non veniva più tagliato sopra e sotto: su schermo orizzontale sta su due colonne. radiolina di bordo: un tocco cambia stazione, due la spengono, tenendo premuto esce la manopola con la scarica fra le stazioni. cinque stazioni, una per decennio dai Quaranta agli Ottanta, con musica strumentale originale generata dal gioco. al varo c'è l'ormeggiatore del pontile che dice cosa fare in ogni fase. spruzzo all'entrata in acqua e portatori che se ne vanno quando la barca galleggia. il microfono si chiude tornando al menu e quando l'app va in secondo piano."
+  "notes": "all'avvio l'app controlla il manifesto pubblico e avvisa se c'è una beta nuova, con le novità. l'APK si scarica e si installa senza passare dal browser, con la barra di avanzamento. prima di installare si controlla che il pacchetto sia il nostro, non più vecchio, e con la stessa firma. se Android non ha ancora dato il permesso di installare da questa app, lo chiede e si riprova."
 }
