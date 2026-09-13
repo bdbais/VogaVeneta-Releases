@@ -23,6 +23,21 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Barca a galla e tasti che rispondono — 0.1.0-beta03
+
+- la barca galleggiava mezza affondata: il pescaggio era inventato, ora è calcolato sul dislocamento — un sandolo con dentro un uomo pesca cinque centimetri;
+- il tasto HO CAPITO non rispondeva: cadeva nella metà destra bassa dello schermo, la zona da cui si voga, e il remo si mangiava il tocco;
+- con una finestra aperta il remo adesso si ferma del tutto;
+- varo rifatto: la barca la portano in quattro a mano, dai cavalletti fino all'acqua, con lo spruzzo all'entrata;
+- la telecamera del varo non attraversa più i pali della tettoia.
+
+### Verifica
+
+- SHA-256 APK: `E5357EBF585F8B57CC73B1D5BD2B98FE430EC1142F05F279E75431D7D5321DC3`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.57 MB
+
+
 ## Comandi e figura del vogatore — 0.1.0-beta02
 
 - si voga da tutta la metà destra bassa dello schermo, non solo dentro l'ovale;
