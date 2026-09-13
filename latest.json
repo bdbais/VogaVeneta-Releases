@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "0.1.0-beta11",
+  "versionCode": 12,
+  "versionName": "0.1.0-beta12",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "9F38BC4B98226FEFEFD2A861A13D0B53FC97873D40AD1ED6FAFC6BAE878933AE",
-  "sizeBytes": 3782858,
+  "sha256": "1A29631F71EA02CD0EE49B7E8C52B3D24AF9E4A3A015BC18E5BD640779D805F5",
+  "sizeBytes": 3786274,
   "date": "2026-09-13",
-  "notes": "modalita ARCADE: due manopole, una spinge e una governa; classifiche separate da quelle PRO. in PRO si scia girando il pollice al contrario attorno alla forcola. pulsante per passare da terza a prima persona. si guarda attorno trascinando nella meta alta dello schermo. varo rifatto: la gru del pontile cala la barca in acqua, l'ormeggiatore sta sul molo."
+  "notes": "l'allarme ONDA scattava per la scia della tua stessa barca: adesso guarda avanti, avvisa una volta per barca che passa e solo se e' roba seria. il riquadro OBIETTIVO sta a sinistra sotto la tratta e dopo sette secondi si stringe su una riga. voga libera: si sceglie da dove partire, anche direttamente in Cannaregio o in Canal Grande. ogni tratta ha il suo cronometro e il suo record, con il passo confrontato in tempo reale. durante il varo lo schermo e' pulito: niente comandi sopra il filmato."
 }

@@ -23,6 +23,21 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Onda che non urla piu, obiettivo che non copre, e si parte da dove vuoi — 0.1.0-beta12
+
+- l'allarme ONDA scattava per la scia della tua stessa barca: adesso guarda avanti, avvisa una volta per barca che passa e solo se e' roba seria;
+- il riquadro OBIETTIVO sta a sinistra sotto la tratta e dopo sette secondi si stringe su una riga;
+- voga libera: si sceglie da dove partire, anche direttamente in Cannaregio o in Canal Grande;
+- ogni tratta ha il suo cronometro e il suo record, con il passo confrontato in tempo reale;
+- durante il varo lo schermo e' pulito: niente comandi sopra il filmato.
+
+### Verifica
+
+- SHA-256 APK: `1A29631F71EA02CD0EE49B7E8C52B3D24AF9E4A3A015BC18E5BD640779D805F5`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.61 MB
+
+
 ## Modalita arcade, prima persona e varo con la gru — 0.1.0-beta11
 
 - modalita ARCADE: due manopole, una spinge e una governa; classifiche separate da quelle PRO;
