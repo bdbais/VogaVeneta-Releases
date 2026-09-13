@@ -23,6 +23,19 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Caricamento che arriva in fondo — 0.1.0-beta09
+
+- l'avvio restava bloccato su «caricamento laguna»: la scena veniva costruita tutta in un blocco solo e il WebView si piantava. Ora si costruisce a fasi, cedendo il controllo fra una e l'altra;
+- barra di avanzamento con percentuale, nome della fase e stima di quanto manca;
+- se qualcosa si rompe in partenza adesso lo dice a schermo invece di girare a vuoto per sempre.
+
+### Verifica
+
+- SHA-256 APK: `A28C053D444485EC7E8FC8BF1B1EA64A78269BCC6FE026B66CD3D67E824C1373`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.60 MB
+
+
 ## Remi in barca, vento vero, le grida e lo sterzo che si capisce — 0.1.0-beta08
 
 - non si capiva come girare: l'ovale disegnato adesso è la rotta dritta — allarghi e accosti a destra, stringi e vai a sinistra — con la scritta sotto il comando che lo dice sempre;
