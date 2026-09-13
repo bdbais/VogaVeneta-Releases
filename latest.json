@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.0-beta03",
+  "versionCode": 5,
+  "versionName": "0.1.0-beta05",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "E5357EBF585F8B57CC73B1D5BD2B98FE430EC1142F05F279E75431D7D5321DC3",
-  "sizeBytes": 3743804,
+  "sha256": "00ABF75823F88F921AB4E3ECB4B6C94DF67A15014A9FCE4A7EC1576842D6F3F0",
+  "sizeBytes": 3754579,
   "date": "2026-09-13",
-  "notes": "la barca galleggiava mezza affondata: il pescaggio era inventato, ora è calcolato sul dislocamento — un sandolo con dentro un uomo pesca cinque centimetri. il tasto HO CAPITO non rispondeva: cadeva nella metà destra bassa dello schermo, la zona da cui si voga, e il remo si mangiava il tocco. con una finestra aperta il remo adesso si ferma del tutto. varo rifatto: la barca la portano in quattro a mano, dai cavalletti fino all'acqua, con lo spruzzo all'entrata. la telecamera del varo non attraversa più i pali della tettoia."
+  "notes": "uscendo dall'app il suono si spegne e la simulazione si ferma; al rientro riprendono da dove erano. il menu principale non veniva più tagliato sopra e sotto: su schermo orizzontale sta su due colonne. radiolina di bordo: un tocco cambia stazione, due la spengono, tenendo premuto esce la manopola con la scarica fra le stazioni. cinque stazioni, una per decennio dai Quaranta agli Ottanta, con musica strumentale originale generata dal gioco. al varo c'è l'ormeggiatore del pontile che dice cosa fare in ogni fase. spruzzo all'entrata in acqua e portatori che se ne vanno quando la barca galleggia. il microfono si chiude tornando al menu e quando l'app va in secondo piano."
 }

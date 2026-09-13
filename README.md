@@ -23,6 +23,23 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Audio che tace fuori dall'app, radio di bordo, l'ormeggiatore — 0.1.0-beta05
+
+- uscendo dall'app il suono si spegne e la simulazione si ferma; al rientro riprendono da dove erano;
+- il menu principale non veniva più tagliato sopra e sotto: su schermo orizzontale sta su due colonne;
+- radiolina di bordo: un tocco cambia stazione, due la spengono, tenendo premuto esce la manopola con la scarica fra le stazioni;
+- cinque stazioni, una per decennio dai Quaranta agli Ottanta, con musica strumentale originale generata dal gioco;
+- al varo c'è l'ormeggiatore del pontile che dice cosa fare in ogni fase;
+- spruzzo all'entrata in acqua e portatori che se ne vanno quando la barca galleggia;
+- il microfono si chiude tornando al menu e quando l'app va in secondo piano.
+
+### Verifica
+
+- SHA-256 APK: `00ABF75823F88F921AB4E3ECB4B6C94DF67A15014A9FCE4A7EC1576842D6F3F0`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.58 MB
+
+
 ## Barca a galla e tasti che rispondono — 0.1.0-beta03
 
 - la barca galleggiava mezza affondata: il pescaggio era inventato, ora è calcolato sul dislocamento — un sandolo con dentro un uomo pesca cinque centimetri;
