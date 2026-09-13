@@ -23,6 +23,21 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Modalita arcade, prima persona e varo con la gru — 0.1.0-beta11
+
+- modalita ARCADE: due manopole, una spinge e una governa; classifiche separate da quelle PRO;
+- in PRO si scia girando il pollice al contrario attorno alla forcola;
+- pulsante per passare da terza a prima persona;
+- si guarda attorno trascinando nella meta alta dello schermo;
+- varo rifatto: la gru del pontile cala la barca in acqua, l'ormeggiatore sta sul molo.
+
+### Verifica
+
+- SHA-256 APK: `9F38BC4B98226FEFEFD2A861A13D0B53FC97873D40AD1ED6FAFC6BAE878933AE`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.61 MB
+
+
 ## Comandi sotto la velocità — 0.1.0-beta10
 
 - camera, microfono, radio e grida stanno in fila sotto il riquadro della velocità, fuori dalla zona dove si voga e lontani dall'ovale della forcola;

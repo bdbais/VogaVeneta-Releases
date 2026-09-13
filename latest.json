@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.0-beta10",
+  "versionCode": 11,
+  "versionName": "0.1.0-beta11",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "2934714920218B702B3E5E15D41FB47C1DA0514D5C4F78A4F15A2203D06E74D8",
-  "sizeBytes": 3776846,
+  "sha256": "9F38BC4B98226FEFEFD2A861A13D0B53FC97873D40AD1ED6FAFC6BAE878933AE",
+  "sizeBytes": 3782858,
   "date": "2026-09-13",
-  "notes": "camera, microfono, radio e grida stanno in fila sotto il riquadro della velocità, fuori dalla zona dove si voga e lontani dall'ovale della forcola. l'icona delle comunicazioni sembrava il volume: ora è un fumetto con la Ó del richiamo, e la voce che attraversa l'acqua. il microfono era una emoji colorata, stonava in fila con le altre: ridisegnato a tratto. il riquadro dell'obiettivo copriva la riga di vento e marea: spostato più in basso."
+  "notes": "modalita ARCADE: due manopole, una spinge e una governa; classifiche separate da quelle PRO. in PRO si scia girando il pollice al contrario attorno alla forcola. pulsante per passare da terza a prima persona. si guarda attorno trascinando nella meta alta dello schermo. varo rifatto: la gru del pontile cala la barca in acqua, l'ormeggiatore sta sul molo."
 }
