@@ -23,6 +23,20 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Comandi sotto la velocità — 0.1.0-beta10
+
+- camera, microfono, radio e grida stanno in fila sotto il riquadro della velocità, fuori dalla zona dove si voga e lontani dall'ovale della forcola;
+- l'icona delle comunicazioni sembrava il volume: ora è un fumetto con la Ó del richiamo, e la voce che attraversa l'acqua;
+- il microfono era una emoji colorata, stonava in fila con le altre: ridisegnato a tratto;
+- il riquadro dell'obiettivo copriva la riga di vento e marea: spostato più in basso.
+
+### Verifica
+
+- SHA-256 APK: `2934714920218B702B3E5E15D41FB47C1DA0514D5C4F78A4F15A2203D06E74D8`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.60 MB
+
+
 ## Caricamento che arriva in fondo — 0.1.0-beta09
 
 - l'avvio restava bloccato su «caricamento laguna»: la scena veniva costruita tutta in un blocco solo e il WebView si piantava. Ora si costruisce a fasi, cedendo il controllo fra una e l'altra;

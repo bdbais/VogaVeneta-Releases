@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.0-beta09",
+  "versionCode": 10,
+  "versionName": "0.1.0-beta10",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "A28C053D444485EC7E8FC8BF1B1EA64A78269BCC6FE026B66CD3D67E824C1373",
-  "sizeBytes": 3776442,
+  "sha256": "2934714920218B702B3E5E15D41FB47C1DA0514D5C4F78A4F15A2203D06E74D8",
+  "sizeBytes": 3776846,
   "date": "2026-09-13",
-  "notes": "l'avvio restava bloccato su «caricamento laguna»: la scena veniva costruita tutta in un blocco solo e il WebView si piantava. Ora si costruisce a fasi, cedendo il controllo fra una e l'altra. barra di avanzamento con percentuale, nome della fase e stima di quanto manca. se qualcosa si rompe in partenza adesso lo dice a schermo invece di girare a vuoto per sempre."
+  "notes": "camera, microfono, radio e grida stanno in fila sotto il riquadro della velocità, fuori dalla zona dove si voga e lontani dall'ovale della forcola. l'icona delle comunicazioni sembrava il volume: ora è un fumetto con la Ó del richiamo, e la voce che attraversa l'acqua. il microfono era una emoji colorata, stonava in fila con le altre: ridisegnato a tratto. il riquadro dell'obiettivo copriva la riga di vento e marea: spostato più in basso."
 }
