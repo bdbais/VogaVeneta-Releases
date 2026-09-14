@@ -23,6 +23,20 @@ dal 2017 in poi). L'app si tiene in orizzontale.
 
 <!-- CHANGELOG -->
 
+## Il manico a due pollici, l'impugnatura e la vibrazione — 0.1.0-beta14
+
+- modo REMO (predefinito): i due pollici sono le due mani sul manico; su si spinge, giu' si torna, fermi la pala frena; il pollice destro piu' avanti e' il polso, cioe' lo stalir;
+- IMPUGNATURA: si sceglie la distanza fra le mani sul remo, e cambia spinta, cadenza, governo e fatica; si vede anche sul rematore;
+- vibrazione: la pala che frena si sente nel manico, l'onda che passa sotto i piedi, un tocco a ogni palada; si spegne dal menu';
+- tre classifiche, una per modo.
+
+### Verifica
+
+- SHA-256 APK: `38A0013F8AF9690CB758E25F6F77A3281240F092B2B38C245A3E149E5C36E7D2`
+- SHA-256 certificato: `9f59ea07db424210233b45191f970677b3f89e219e56f4927b3ad70ff86dbdac`
+- dimensione: 3.62 MB
+
+
 ## Barre orizzontali e comandi da mouse e tastiera — 0.1.0-beta13
 
 - fiato ed equilibrio: barre orizzontali sul fianco sinistro, non piu' verticali sotto la manopola;

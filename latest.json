@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "0.1.0-beta13",
+  "versionCode": 14,
+  "versionName": "0.1.0-beta14",
   "apkUrl": "https://github.com/bdbais/VogaVeneta-Releases/raw/refs/heads/main/downloads/VogaVeneta-latest.apk",
-  "sha256": "7220B48B7337955B1D1F323AC2123A7B3EE81D112FC17E17C8F20032D1DED827",
-  "sizeBytes": 3786914,
-  "date": "2026-09-13",
-  "notes": "fiato ed equilibrio: barre orizzontali sul fianco sinistro, non piu' verticali sotto la manopola. da computer la modalita' arcade si comanda con W/Spazio, S, A/D e i pomelli si muovono da soli. in pro il giro della forcola si fa col mouse sull'ovale disegnato, anche al contrario per sciar. V passa da terza a prima persona."
+  "sha256": "38A0013F8AF9690CB758E25F6F77A3281240F092B2B38C245A3E149E5C36E7D2",
+  "sizeBytes": 3795513,
+  "date": "2026-09-14",
+  "notes": "modo REMO (predefinito): i due pollici sono le due mani sul manico; su si spinge, giu' si torna, fermi la pala frena; il pollice destro piu' avanti e' il polso, cioe' lo stalir. IMPUGNATURA: si sceglie la distanza fra le mani sul remo, e cambia spinta, cadenza, governo e fatica; si vede anche sul rematore. vibrazione: la pala che frena si sente nel manico, l'onda che passa sotto i piedi, un tocco a ogni palada; si spegne dal menu'. tre classifiche, una per modo."
 }
